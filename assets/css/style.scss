@@ -1,0 +1,28 @@
+---
+---
+
+$section-headings-color: #155799 !default;
+
+@import "{{ site.theme }}";
+
+.caption-title{
+    font-weight: bold;
+    color: $section-headings-color;
+}
+
+caption, figcaption {
+    caption-side: bottom; /* Moves caption below the table */
+    text-align: left;     /* Aligns caption to the left */
+    font-style: italic;   /* Optional: Makes the caption italicized */
+    padding-top: 8px;     /* Adds spacing between the table and caption */
+    color: #555;          /* Optional: Subtle text color for the caption */
+    margin-bottom: 1rem;
+  }
+
+table{
+    margin-bottom: 1rem;
+}
+
+figure{
+    text-align: center;
+}
