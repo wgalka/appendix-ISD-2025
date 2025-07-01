@@ -27,6 +27,8 @@ All experiments were done in Python. Exact package versions were used to keep re
 - openpyxl (3.2.0b1): reading and writing Excel files
 - ucimlrepo (0.0.7): fetching datasets from UCI Machine Learning Repository
 
+![](media/6_dunn_heatmap_FP.png)
+![](media/6_dunn_heatmap_HRMS.png)
 
 ![](media/dunn_heatmap_FP_13.png)
 
