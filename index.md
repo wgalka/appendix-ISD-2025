@@ -31,7 +31,7 @@ All experiments were done in Python. Exact package versions were used to keep re
 
 <!-- ![](media/6_dunn_heatmap_HRMS.png) -->
 
-![](media/dunn_heatmap_FP_13.png)
+<!-- ![](media/dunn_heatmap_FP_13.png) -->
 
 
 ![](media/PSI_heatmap_do_pracy_4.png)
