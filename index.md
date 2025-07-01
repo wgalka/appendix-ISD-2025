@@ -27,18 +27,23 @@ All experiments were done in Python. Exact package versions were used to keep re
 - openpyxl (3.2.0b1): reading and writing Excel files
 - ucimlrepo (0.0.7): fetching datasets from UCI Machine Learning Repository
 
+**Figure: Statistical comparison of false positive (FP) counts between base models and selected proposed models using Dunn’s post-hoc test with Holm–Bonferroni correction**
 ![](media/6_dunn_heatmap_FP.png)
+
+**Figure: Statistical comparison of false positive (FP) counts between selected proposed models using Dunn’s post-hoc test with Holm–Bonferroni correction**
+![](media/dunn_heatmap_FP_pm.png)
 
 <!-- ![](media/6_dunn_heatmap_HRMS.png) -->
 
 <!-- ![](media/dunn_heatmap_FP_13.png) -->
 
 
+**Figure: Population Stability Index (PSI) values for the selected features**
 ![](media/PSI_heatmap_do_pracy_4.png)
 
 <!-- ![](media/dunn_heatmap_HRMS.png) -->
 
-**Table: Feature names of the dataset and their abbreviations**
+**Table: Dataset feature names and their abbreviations**
 
 | Abb   | Description                               | Abb   | Description                             |
 |-------|-------------------------------------------|-------|-----------------------------------------|
