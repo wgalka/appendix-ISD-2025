@@ -3,6 +3,31 @@ title: Neural networks based ensemble classifier for phishing link detection
 layout: default
 ---
 
+All experiments were done in Python. Exact package versions were used to keep reproducibility and compatibility. Versions were managed with pip.
+
+**System Info:**
+- CPU: AMD EPYC 7702 64-Core Processor
+- Physical cores: 64
+- Logical cores: 64
+- CPU frequency: 1996.25 MHz
+- RAM: 295.02 GB
+- OS: Linux 5.10.0-21-amd64 (Debian)
+- Architecture: 64bit
+- Python: 3.13.1
+
+**Python libraries:**
+- scikit-learn (1.6.1): machine learning (classification, cross-validation, evaluation)
+- pandas (2.2.3): data manipulation and analysis
+- numpy (2.2.5): numerical computing, arrays, math functions
+- scipy (1.15.2): scientific computing, stats, hypothesis testing
+- matplotlib (3.10.1), seaborn (0.13.2): data visualization and plotting
+- statsmodels (0.14.4): statistical modeling and inference
+- scikit-posthocs (0.11.4): post-hoc analysis after stats tests
+- joblib (1.4.2), threadpoolctl (3.6.0): parallel computing and performance
+- openpyxl (3.2.0b1): reading and writing Excel files
+- ucimlrepo (0.0.7): fetching datasets from UCI Machine Learning Repository
+
+
 ![](media/dunn_heatmap_FP_13.png)
 
 
