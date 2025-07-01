@@ -5,7 +5,7 @@ layout: default
 
 All experiments were done in Python. Exact package versions were used to keep reproducibility and compatibility. Versions were managed with pip.
 
-**System Info:**
+**Experiments hardware information:**
 - CPU: AMD EPYC 7702 64-Core Processor
 - Physical cores: 64
 - Logical cores: 64
